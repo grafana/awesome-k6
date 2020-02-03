@@ -9,9 +9,13 @@
   A curated list of resources on automated load testing and performance monitoring using k6.
 </p>
 
+## Content
+- [Tools](#tools)
+- [Stacks](#stacks)
+
 ## Tools
 - [k6 to JUnit](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
 
-## Misc
+## Stacks
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 - [Load Impact's OSS Load Testing Stack](https://github.com/loadimpact/open-source-load-testing-stack) - Open-source stack that works well for running load tests, storing results and visualizing those results in dashboards.
