@@ -10,11 +10,23 @@
 </p>
 
 ## Content
+- [Reference Projects](#reference-projects)
 - [Tools](#tools)
 - [Stacks](#stacks)
 
+## Reference Projects
+- [k6-circleci-example](https://github.com/loadimpact/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
+- [k6-jenkins-example](https://github.com/loadimpact/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
+- [k6-gitlab-example](https://github.com/loadimpact/k6-gitlab-example) - Running k6 load tests as part of a GitLab CI/CD build.
+- [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - Running k6 load tests as part of a GitHub Actions build.
+- [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - Running k6 load tests as part of an Azure DevOps Pipeline.
+- [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
+
 ## Tools
-- [k6 to JUnit](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
+- [k6-to-junit](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
+- [har-to-k6](https://github.com/loadimpact/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
+- [postman-to-k6](https://github.com/loadimpact/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+- [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 
 ## Stacks
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
