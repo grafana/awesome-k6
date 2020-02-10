@@ -27,7 +27,7 @@
 - [har-to-k6](https://github.com/loadimpact/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
 - [postman-to-k6](https://github.com/loadimpact/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
 - [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
-
+- [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 ## Stacks
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 - [Load Impact's OSS Load Testing Stack](https://github.com/loadimpact/open-source-load-testing-stack) - Open-source stack that works well for running load tests, storing results and visualizing those results in dashboards.
