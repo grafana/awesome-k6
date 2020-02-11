@@ -9,10 +9,18 @@
   A curated list of resources on automated load testing and performance monitoring using k6.
 </p>
 
-## Content
+## Conten
+- [Articles](#articles)
 - [Reference Projects](#reference-projects)
 - [Tools](#tools)
 - [Stacks](#stacks)
+
+## Articles
+- [Beginner's guide to load testing with k6](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d) - Introductory guide in several parts, helping you get started with k6.
+- [Running multiple load test scripts with k6](https://medium.com/@trannguyenhung011086/run-multi-load-test-scripts-with-k6-3dc57e8e26e2) - Splitting tests into multiple scripts and then run them together.
+- [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - Brief overview of features and capabilities of k6.
+- [Integrating k6 with Apache Kafka](https://medium.com/@mostafamoradian/integrating-k6-with-apache-kafka-eda96ea7c749) - Sending output from k6 to Apache Kafka.
+- [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
 
 ## Reference Projects
 - [k6-circleci-example](https://github.com/loadimpact/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
