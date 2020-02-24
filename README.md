@@ -1,13 +1,13 @@
-<p align="center">
-  <img src="assets/banner.gif" alt="k6 banner">
-</p>
+<div align="center">
+  <a href="https://k6.io/">
+    <img src="assets/banner.gif" alt="k6 banner" width="600" />
+  </a>
 
-<h1 align="center" border=0>
-  Awesome k6
-</h1>
-<p align="center">
-  A curated list of resources on automated load testing and performance monitoring using <a href="https://k6.io/">k6</a>.
-</p>
+# Awesome k6
+
+A curated list of resources on automated load testing and performance monitoring using [k6](https://k6.io/).
+
+</div>
 
 ## Contents
 
