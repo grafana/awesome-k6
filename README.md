@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://k6.io/">
-    <img src="assets/banner.gif" alt="k6 banner" width="600" />
+    <img src="assets/k6.gif" alt="k6 animation" width="600">
   </a>
 
 # Awesome k6
