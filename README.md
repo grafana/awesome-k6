@@ -2,14 +2,14 @@
   <a href="https://k6.io/">
     <img src="assets/k6.gif" alt="k6 animation" width="600">
   </a>
+
+# Awesome K6 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 </div>
 
-<h1 align="center" border=0>
-  Awesome k6
-</h1>
-<p align="center">
-  A curated list of resources on automated load testing and performance monitoring using <a href="https://k6.io/">k6</a>.
-</p>
+A curated list of resources on automated load testing and performance monitoring using <a href="https://k6.io/">k6</a>.
+
+Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md).
 
 ## Contents
 
@@ -47,3 +47,7 @@
 
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 - [Load Impact's OSS Load Testing Stack](https://github.com/loadimpact/open-source-load-testing-stack) - Open-source stack that works well for running load tests, storing results and visualizing those results in dashboards.
+
+<br/>
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
