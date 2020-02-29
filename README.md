@@ -7,7 +7,8 @@
 
 </div>
 
-A curated list of resources on automated load testing and performance monitoring using <a href="https://k6.io/">k6</a>.
+Open-source, developer-centric performance monitoring and load testing solution, <a href="https://k6.io/">k6</a>.
+
 
 Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md).
 
