@@ -48,7 +48,3 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 - [Load Impact's OSS Load Testing Stack](https://github.com/loadimpact/open-source-load-testing-stack) - Open-source stack that works well for running load tests, storing results and visualizing those results in dashboards.
-
-<br/>
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
