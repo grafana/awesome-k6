@@ -32,11 +32,10 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 - [k6-circleci-example](https://github.com/loadimpact/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
 - [k6-jenkins-example](https://github.com/loadimpact/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
-- [k6-gitlab-example](https://github.com/loadimpact/k6-gitlab-example) - Running k6 load tests as part of a GitLab CI/CD build.
 - [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - Running k6 load tests as part of a GitHub Actions build.
 - [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - Running k6 load tests as part of an Azure DevOps Pipeline.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
-- [k6-typescript-framework](https://github.com/go-automate/k6-typescript-framework) - Example of a k6 load testing framework written in TypeScript
+- [k6-typescript-framework](https://github.com/go-automate/k6-typescript-framework) - Example of a k6 load testing framework written in TypeScript.
 
 ## Tools
 
