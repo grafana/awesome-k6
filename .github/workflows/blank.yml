@@ -1,19 +1,27 @@
 name: CI
 
-on: [push]
+on:
+  push: {}
+  pull_request: {}
+  schedule:
+  - cron: "0 0 */1 * *"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '10.x'
-    - name: Install awesome-lint
-      run: npm init -y && npm install awesome-lint
-        
-    - name: Run awesome-lint
-      run: ./node_modules/.bin/awesome-lint
+    - uses: actions/checkout@v1
+    - name: install linting packages
+      run: |
+        npm install \
+          awesome-lint \
+          remark-cli \
+          remark-lint \
+          remark-lint-no-dead-urls
+    - name: scan for dead urls
+      run: |
+        npx remark \
+          -u remark-lint-no-dead-urls \
+          ./README.md
+    - name: run awesome-lint
+      run: npx awesome-lint ./README.md
