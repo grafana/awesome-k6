@@ -29,6 +29,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Integrating k6 with Apache Kafka](https://medium.com/@mostafamoradian/integrating-k6-with-apache-kafka-eda96ea7c749) - Sending output from k6 to Apache Kafka.
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
 - [Using k6 with TypeScript](https://medium.com/better-programming/performance-testing-in-typescript-5b5444510b83) - Why writing k6 scripts in TypeScript is a good idea and how to set up your framework.
+- [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) - Detailed comparison of the most popular open source load testing tools.
 
 ## Reference Projects
 
@@ -38,6 +39,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - Running k6 load tests as part of an Azure DevOps Pipeline.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
 - [k6-typescript-framework](https://github.com/go-automate/k6-typescript-framework) - Example of a k6 load testing framework written in TypeScript.
+- [k6-es6](https://github.com/MStoykov/k6-es6) - Example project using Webpack, Babel and Browserify to make most ES6 code work in k6.
 
 ## Tools
 
