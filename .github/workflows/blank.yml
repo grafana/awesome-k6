@@ -11,9 +11,6 @@ jobs:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
       with:
-        node-version: '10.x'
-    - name: Install awesome-lint
-      run: npm init -y && npm install awesome-lint
-        
+        node-version: '12.x'
     - name: Run awesome-lint
-      run: ./node_modules/.bin/awesome-lint
+      run: npx sindresorhus/awesome-lint
