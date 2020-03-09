@@ -1,4 +1,3 @@
-<!--lint disable awesome-git-repo-age-->
 <div align="center">
   <a href="https://k6.io/">
     <img src="assets/bert.png" alt="k6 mascot" width="300px">
@@ -6,6 +5,7 @@
 
 <!--lint disable awesome-heading-->
 # Awesome k6 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!--lint enable awesome-heading-->
 
 </div>
 
