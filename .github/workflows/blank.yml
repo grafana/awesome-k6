@@ -22,6 +22,6 @@ jobs:
       run: |
         npx remark \
           -u remark-lint-no-dead-urls \
-          ./readme.md
+          ./README.md
     - name: run awesome-lint
-      run: npx awesome-lint ./readme.md
+      run: npx awesome-lint ./README.md
