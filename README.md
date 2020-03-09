@@ -1,9 +1,10 @@
 <div align="center">
   <a href="https://k6.io/">
-    <img src="assets/k6.gif" alt="k6 animation" width="600">
+    <img src="assets/bert.png" alt="k6 mascot" width="300px">
   </a>
 
-# Awesome K6 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!--lint disable awesome-heading-->
+# Awesome k6 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 </div>
 
