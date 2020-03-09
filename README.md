@@ -15,10 +15,10 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Contents
 
-  - [Articles](#articles)
-  - [Reference Projects](#reference-projects)
-  - [Tools](#tools)
-  - [Stacks](#stacks)
+- [Articles](#articles)
+- [Reference Projects](#reference-projects)
+- [Tools](#tools)
+- [Stacks](#stacks)
 
 ## Articles
 
