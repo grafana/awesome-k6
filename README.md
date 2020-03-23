@@ -40,6 +40,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
 - [k6-typescript-framework](https://github.com/go-automate/k6-typescript-framework) - Example of a k6 load testing framework written in TypeScript.
 - [k6-es6](https://github.com/MStoykov/k6-es6) - Example project using Webpack, Babel and Browserify to make most ES6 code work in k6.
+- [example-data-generation](https://github.com/k6io/example-data-generation) - Generate realistic data for k6 using faker.
 
 ## Tools
 
