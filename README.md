@@ -16,11 +16,11 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Contents
 
-  - [Articles](#articles)
-  - [Videos](#videos)
-  - [Reference Projects](#reference-projects)
-  - [Tools](#tools)
-  - [Stacks](#stacks)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Reference Projects](#reference-projects)
+- [Tools](#tools)
+- [Stacks](#stacks)
 
 ## Articles
 
@@ -34,7 +34,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Videos
 
-- [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory video showing how to create and run a simple test from a HAR file.
+- [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory overview of k6, showing how to create a test from a HAR file.
 
 ## Reference Projects
 
