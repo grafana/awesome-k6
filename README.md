@@ -17,6 +17,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 ## Contents
 
 - [Articles](#articles)
+- [Videos](#videos)
 - [Reference Projects](#reference-projects)
 - [Tools](#tools)
 - [Stacks](#stacks)
@@ -30,6 +31,10 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
 - [Using k6 with TypeScript](https://medium.com/better-programming/performance-testing-in-typescript-5b5444510b83) - Why writing k6 scripts in TypeScript is a good idea and how to set up your framework.
 - [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) - Detailed comparison of the most popular open source load testing tools.
+
+## Videos
+
+- [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory overview of k6, showing how to create a test from a HAR file.
 
 ## Reference Projects
 
