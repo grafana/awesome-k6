@@ -60,7 +60,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 
 ## CI
-- [k6 for github actions](https://github.com/marketplace/actions/k6-load-test)- Marketplace action for running k6 in GitHub Actions.
+- [k6 for github actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
 - [k6 for azure devops pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
 
 ## Stacks
