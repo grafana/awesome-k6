@@ -27,13 +27,15 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Articles
 
-- [Beginner's guide to load testing with k6](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d) - Introductory guide in several parts, helping you get started with k6.
+- [Beginner's guide to load testing with k6](https://mostafa.dev/blog/beginner-s-guide-to-load-testing-with-k6-part-1) - Introductory guide in several parts, helping you get started with k6.
 - [Running multiple load test scripts with k6](https://medium.com/@trannguyenhung011086/run-multi-load-test-scripts-with-k6-3dc57e8e26e2) - Splitting tests into multiple scripts and then run them together.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - Brief overview of features and capabilities of k6.
-- [Integrating k6 with Apache Kafka](https://medium.com/@mostafamoradian/integrating-k6-with-apache-kafka-eda96ea7c749) - Sending output from k6 to Apache Kafka.
+- [Integrating k6 with Apache Kafka](https://mostafa.dev/blog/integrating-k6-with-apache-kafka) - Sending output from k6 to Apache Kafka.
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
 - [Using k6 with TypeScript](https://medium.com/better-programming/performance-testing-in-typescript-5b5444510b83) - Why writing k6 scripts in TypeScript is a good idea and how to set up your framework.
 - [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) - Detailed comparison of the most popular open source load testing tools.
+- [Load Testing Your API with Swagger/OpenAPI and k6](https://mostafa.dev/blog/load-testing-your-api-with-swagger-openapi-and-k6) - Generate k6 load test scripts from OpenAPI specifications.
+- [Load Testing Your API with Postman](https://mostafa.dev/blog/load-testing-your-api-with-postman) - How to use Postman collections to load test your API.
 
 ## Videos
 
