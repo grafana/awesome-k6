@@ -16,12 +16,14 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Contents
 
-- [Articles](#articles)
-- [Videos](#videos)
-- [Reference Projects](#reference-projects)
-- [Tools](#tools)
-- [CI](#ci)
-- [Stacks](#stacks)
+- [Awesome k6 ![Awesome](https://awesome.re)](#awesome-k6-awesomehttpsawesomere)
+  - [Contents](#contents)
+  - [Articles](#articles)
+  - [Videos](#videos)
+  - [Reference Projects](#reference-projects)
+  - [Tools](#tools)
+  - [CI](#ci)
+  - [Stacks](#stacks)
 
 ## Articles
 
@@ -48,6 +50,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-typescript-framework](https://github.com/go-automate/k6-typescript-framework) - Example of a k6 load testing framework written in TypeScript.
 - [k6-es6](https://github.com/MStoykov/k6-es6) - Example project using Webpack, Babel and Browserify to make most ES6 code work in k6.
 - [example-data-generation](https://github.com/k6io/example-data-generation) - Generate realistic data for k6 using faker.
+- [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
 
 ## Tools
 
