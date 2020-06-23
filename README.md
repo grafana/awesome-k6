@@ -16,14 +16,13 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Contents
 
-- [Awesome k6 ![Awesome](https://awesome.re)](#awesome-k6-awesomehttpsawesomere)
-  - [Contents](#contents)
-  - [Articles](#articles)
-  - [Videos](#videos)
-  - [Reference Projects](#reference-projects)
-  - [Tools](#tools)
-  - [CI](#ci)
-  - [Stacks](#stacks)
+- [Contents](#contents)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Reference Projects](#reference-projects)
+- [Tools](#tools)
+- [CI](#ci)
+- [Stacks](#stacks)
 
 ## Articles
 
