@@ -26,7 +26,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Stacks](#stacks)
 
 ## Extensions
-- [GitHub Topic: xk6] - Explore k6 extensions tagged with the xk6 label.
+- [GitHub Topic: xk6](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 
 ## Articles
 
