@@ -17,12 +17,16 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 ## Contents
 
 - [Contents](#contents)
+- [Extensions](#extensions)
 - [Articles](#articles)
 - [Videos](#videos)
 - [Reference Projects](#reference-projects)
 - [Tools](#tools)
 - [CI](#ci)
 - [Stacks](#stacks)
+
+## Extensions
+- [GitHub Topic: xk6] - Explore k6 extensions tagged with the xk6 label.
 
 ## Articles
 
