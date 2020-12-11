@@ -55,6 +55,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-es6](https://github.com/MStoykov/k6-es6) - Example project using Webpack, Babel and Browserify to make most ES6 code work in k6.
 - [example-data-generation](https://github.com/k6io/example-data-generation) - Generate realistic data for k6 using faker.
 - [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
+- [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 
 ## Tools
 
