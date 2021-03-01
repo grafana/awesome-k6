@@ -14,7 +14,7 @@ Open-source, developer-centric performance monitoring and load testing solution,
 
 Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md).
 
-## Table of Content
+## Table of Contents
 
 - [Extensions](#extensions)
 - [Articles](#articles)
