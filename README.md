@@ -51,6 +51,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-jenkins-example](https://github.com/loadimpact/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
 - [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - Running k6 load tests as part of a GitHub Actions build.
 - [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - Running k6 load tests as part of an Azure DevOps Pipeline.
+- [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
 - [k6-typescript-template](https://github.com/k6io/template-typescript) - Template to use TypeScript with k6
 - [k6-es6](https://github.com/MStoykov/k6-es6) - Example project using Webpack, Babel and Browserify to make most ES6 code work in k6.
