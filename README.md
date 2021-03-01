@@ -14,9 +14,8 @@ Open-source, developer-centric performance monitoring and load testing solution,
 
 Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md).
 
-## Contents
+## Table of Content
 
-- [Contents](#contents)
 - [Extensions](#extensions)
 - [Articles](#articles)
 - [Videos](#videos)
@@ -53,7 +52,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - Running k6 load tests as part of an Azure DevOps Pipeline.
 - [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
-- [k6-typescript-template](https://github.com/k6io/template-typescript) - Template to use TypeScript with k6
+- [k6-typescript-template](https://github.com/k6io/template-typescript) - Template to use TypeScript with k6.
 - [k6-es6](https://github.com/MStoykov/k6-es6) - Example project using Webpack, Babel and Browserify to make most ES6 code work in k6.
 - [example-data-generation](https://github.com/k6io/example-data-generation) - Generate realistic data for k6 using faker.
 - [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
@@ -72,8 +71,8 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 
 ## CI
-- [k6 for github actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
-- [k6 for azure devops pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
+- [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
+- [k6 for Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
 
 ## Stacks
 
