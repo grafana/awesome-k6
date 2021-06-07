@@ -61,6 +61,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 - [k6-to-junit](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
 - [k6-reporter](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
+- [k6-reporter](https://github.com/szboynono/k6-html-reporter) - Tool for generating k6 HTML reports.
 - [har-to-k6](https://github.com/loadimpact/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
 - [postman-to-k6](https://github.com/loadimpact/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
 - [k6 generator](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
