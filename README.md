@@ -38,6 +38,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Load Testing Your API with Postman](https://mostafa.dev/blog/load-testing-your-api-with-postman) - How to use Postman collections to load test your API.
 - [Load Testing & Black Friday capacity planning](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408) - How Back Market prepared for Black Friday with k6 based load testing.
 - [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - How to use the xk6-sql extension to test SQL databases directly. 
+- [Introducing TestRail in your K6 tests](https://dev.to/kwidera/introducing-testrail-in-you-k6-tests-eck) - Reporting k6 output to TestRail. 
 
 ## Videos
 
