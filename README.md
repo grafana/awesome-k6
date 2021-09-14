@@ -29,7 +29,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Articles
 
-- [Beginner's guide to load testing with k6](https://mostafa.dev/blog/beginner-s-guide-to-load-testing-with-k6-part-1) - Introductory guide in several parts, helping you get started with k6.
+- [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - Introductory guide in several parts, helping you get started with k6.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - Brief overview of features and capabilities of k6.
 - [Integrating k6 with Apache Kafka](https://mostafa.dev/blog/integrating-k6-with-apache-kafka) - Sending output from k6 to Apache Kafka.
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
