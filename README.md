@@ -9,7 +9,7 @@
 
 </div>
 
-Open-source, developer-centric performance monitoring and load testing solution, <a href="https://k6.io/">k6</a>.
+A collection of content by the community, on (testing with) <a href="https://k6.io/">k6</a>.
 
 
 Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md).
@@ -42,27 +42,31 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Beautiful Load Testing With K6 and Docker Compose](https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3) - How to run load tests using the awesome combination of Docker Compose, K6, InfluxDB and Grafana.
 - [Load Testing with Azure DevOps and k6](https://medium.com/microsoftazure/load-testing-with-azure-devops-and-k6-839be039b68a) -  How to setup Azure DevOps to perform automated load tests using k6, handleCallback, and JUnit.
 - [K6 — Custom Slack Integration: Metrics are the Magic of Tests](https://medium.com/geekculture/k6-custom-slack-integration-metrics-are-the-magic-of-tests-527aaf613595) -  How to send k6 output results to Slack using the handleSummary callback.
+- [Load testing with k6](https://levelup.gitconnected.com/load-testing-with-k6-48488c7946bb) - Using k6 for load, soak, stress, spike and smoke testing.
+
 
 ## Videos
 
 - [k6 YouTube Channel](https://www.youtube.com/c/k6test)
 - [Intro to load testing with k6 and Grafana (k6 data source plugin and Prometheus Remote Write)](https://www.youtube.com/watch?v=tFsIgbqXbxM)
 - [Playlist - What others says about k6](https://www.youtube.com/playlist?list=PLJdv3RhAQXNExTjuYN9ukawFHB7ucuejp)
-  - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory overview of k6, showing how to create a test from a HAR file.
-  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - A walkthrough of the open-source load and performance regression testing tool, k6, and how to load test your APIs and websites.
+  - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory overview of k6, showing how to create a test from a HAR file, by the DevOps Directive. 
+  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - A walkthrough of the open-source load and performance regression testing tool, k6, and how to load test your APIs and websites, by Chris James.
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021, Intro to k6. 
+  - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas at Cloud Summit 2021.
+  - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf writing k6 tests using GitHub co-pilot.
 
 ## Reference Projects
 
-- [k6-circleci-example](https://github.com/loadimpact/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
-- [k6-jenkins-example](https://github.com/loadimpact/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
-- [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - Running k6 load tests as part of a GitHub Actions build.
-- [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - Running k6 load tests as part of an Azure DevOps Pipeline.
+- [k6-circleci-example](https://github.com/li-clutter-org/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
+- [k6-jenkins-example](https://github.com/li-clutter-org/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
+- [k6-github-actions-example](https://github.com/grafana/k6-example-github-actions) - Running k6 load tests as part of a GitHub Actions build.
+- [k6-azure-pipelines-example](https://github.com/grafana/k6-example-azure-pipelines) - Running k6 load tests as part of an Azure DevOps Pipeline.
 - [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
-- [k6-typescript-template](https://github.com/k6io/template-typescript) - Template to use TypeScript with k6.
+- [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
 - [k6-es6](https://github.com/MStoykov/k6-es6) - Example project using Webpack, Babel and Browserify to make most ES6 code work in k6.
-- [example-data-generation](https://github.com/k6io/example-data-generation) - Generate realistic data for k6 using faker.
+- [example-data-generation](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
 - [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
 - [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 - [k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
@@ -73,10 +77,10 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-to-junit](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
 - [k6-reporter](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
 - [k6-reporter](https://github.com/szboynono/k6-html-reporter) - Tool for generating k6 HTML reports.
-- [har-to-k6](https://github.com/loadimpact/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
-- [postman-to-k6](https://github.com/loadimpact/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+- [har-to-k6](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
+- [postman-to-k6](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
 - [k6 generator](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
-- [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
+- [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 - [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 
@@ -85,9 +89,13 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
 - [k6 for Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
 - [k6 CircleCI Orb](https://circleci.com/developer/orbs/orb/k6io/test) - k6 Orb for running k6 in CircleCI. Supports running tests both on the CircleCI runner and in the k6 cloud SaaS service.
+- [k6 for Atlassian Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
+- [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
+- [k6 for Google Cloud Build](https://k6.io/blog/integrating-k6-with-google-cloud-build/)
 
 ## Stacks
 
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
-- [Load Impact's OSS Load Testing Stack](https://github.com/loadimpact/open-source-load-testing-stack) - Open-source stack that works well for running load tests, storing results and visualizing those results in dashboards.
-
+- [Real-time stress:
+AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda) - Evil Martians adding "real-time stress" with k6 and WebSockets.
+- [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - Robinhood on load testing a Kubernetes system with k6.
