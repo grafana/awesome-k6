@@ -43,12 +43,17 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Load Testing with Azure DevOps and k6](https://medium.com/microsoftazure/load-testing-with-azure-devops-and-k6-839be039b68a) -  How to setup Azure DevOps to perform automated load tests using k6, handleCallback, and JUnit.
 - [K6 — Custom Slack Integration: Metrics are the Magic of Tests](https://medium.com/geekculture/k6-custom-slack-integration-metrics-are-the-magic-of-tests-527aaf613595) -  How to send k6 output results to Slack using the handleSummary callback.
 - [Load testing with k6](https://levelup.gitconnected.com/load-testing-with-k6-48488c7946bb) - Using k6 for load, soak, stress, spike and smoke testing.
+- [How to write three times fewer lines of code when doing load testing](https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb)
+- [Load Testing. k6 + TypeScript + Azure DevOps](https://alex-klaus.com/load-test-k6-typescript-azure/)
 
 
 ## Videos
 
 - [k6 YouTube Channel](https://www.youtube.com/c/k6test)
 - [Intro to load testing with k6 and Grafana (k6 data source plugin and Prometheus Remote Write)](https://www.youtube.com/watch?v=tFsIgbqXbxM)
+- [From Grafana ObservabilityCON: Intro to using k6 load testing with the Grafana observability stack](https://grafana.com/go/observabilitycon/2021/k6-load-testing/)
+- [From Grafana ObservabilityCON: Building performance tests into your CI pipeline with k6 and Grafana, w/ Matthew Churcher, QA Engineer at Vonage](https://grafana.com/go/observabilitycon/2021/performance-testing-vonage/)
+- [EveryoneCanContribute cafe: Load Performance Testing with k6](https://youtu.be/_ty40gSaaw8)
 - [Playlist - What others says about k6](https://www.youtube.com/playlist?list=PLJdv3RhAQXNExTjuYN9ukawFHB7ucuejp)
   - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory overview of k6, showing how to create a test from a HAR file, by the DevOps Directive. 
   - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - A walkthrough of the open-source load and performance regression testing tool, k6, and how to load test your APIs and websites, by Chris James.
@@ -92,6 +97,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6 for Atlassian Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
 - [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
 - [k6 for Google Cloud Build](https://k6.io/blog/integrating-k6-with-google-cloud-build/)
+- [k6 for Buddy CI/CD](https://k6.io/blog/integrating-k6-with-buddy-devops/)
 
 ## Stacks
 
