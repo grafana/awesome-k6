@@ -40,11 +40,15 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - How to use the xk6-sql extension to test SQL databases directly. 
 - [Introducing TestRail in your K6 tests](https://dev.to/kwidera/introducing-testrail-in-you-k6-tests-eck) - Reporting k6 output to TestRail. 
 - [Beautiful Load Testing With K6 and Docker Compose](https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3) - How to run load tests using the awesome combination of Docker Compose, K6, InfluxDB and Grafana.
-- [Load Testing with Azure DevOps and k6](https://medium.com/microsoftazure/load-testing-with-azure-devops-and-k6-839be039b68a) -  How to setup Azure DevOps to perform automated load tests using k6, handleCallback, and JUnit.
+- [Load Testing with Azure DevOps and k6](https://medium.com/microsoftazure/load-testing-with-azure-devops-and-k6-839be039b68a) - How to setup Azure DevOps to perform automated load tests using k6, handleCallback, and JUnit.
 - [K6 — Custom Slack Integration: Metrics are the Magic of Tests](https://medium.com/geekculture/k6-custom-slack-integration-metrics-are-the-magic-of-tests-527aaf613595) -  How to send k6 output results to Slack using the handleSummary callback.
 - [Load testing with k6](https://levelup.gitconnected.com/load-testing-with-k6-48488c7946bb) - Using k6 for load, soak, stress, spike and smoke testing.
 - [How to write three times fewer lines of code when doing load testing](https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb)
 - [Load Testing. k6 + TypeScript + Azure DevOps](https://alex-klaus.com/load-test-k6-typescript-azure/)
+- [Performance testing with k6](https://blog.shanelee.name/2021/12/15/performance-testing-with-k6/) - On API performance testing, with Open API and TypeScript.
+- [k6 introduces browser automation and Prometheus support in k6 OSS](https://grafana.com/blog/2021/11/24/k6-introduces-browser-automation-and-prometheus-support-in-k6-oss/) - From the Grafana blog: feature announcements at ObservabilityCON 2021.
+- [How to build performance tests into your CI pipeline with k6, GitHub Actions, and Grafana](https://grafana.com/blog/2021/11/29/how-to-build-performance-tests-into-your-ci-pipeline-with-k6-github-actions-and-grafana/) - From the Grafana blog: a summary of Matthew Churcher's ObservabilityCon 2021 talk, Vonage QA Architect.
+- [Testing shift left observability with the Grafana Stack, OpenTelemetry, and k6](https://grafana.com/blog/2021/12/06/testing-shift-left-observability-with-the-grafana-stack-opentelemetry-and-k6/) - From the Grafana blog: a summary of Executive Director of Platform Engineering at JPMorgan Chase, Vinodh Ravi's talk at ObservabilityCON 2021. 
 
 
 ## Videos
