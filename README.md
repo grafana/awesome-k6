@@ -51,8 +51,8 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Testing shift left observability with the Grafana Stack, OpenTelemetry, and k6](https://grafana.com/blog/2021/12/06/testing-shift-left-observability-with-the-grafana-stack-opentelemetry-and-k6/) - From the Grafana blog: a summary of Executive Director of Platform Engineering at JPMorgan Chase, Vinodh Ravi's talk at ObservabilityCON 2021. 
 
 - [Umbraco 9 - What a Performance!](https://moriyama.co.uk/about-us/news/blog-umbraco-9-what-a-performance/) - test the performance of Umbraco v9 on Azure against Umbraco v8 and comparing Windows vs Linux.
-- [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - Personal tips to maintain a challenging k6 load testing codebase. 
-
+- [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - Personal tips to maintain a challenging k6 load testing codebase.
+- [How to write three times fewer lines of code when doing load testing](https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb) - Building a k6 extension in Go to test Tarantool.
 
 ## Videos
 
@@ -68,7 +68,6 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021, Intro to k6. 
   - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas at Cloud Summit 2021.
   - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf writing k6 tests using GitHub co-pilot.
-  - [How to write three times fewer lines of code when doing load testing](https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb) - Building a k6 extension in Go to test Tarantool.
 
 ## Reference Projects
 
