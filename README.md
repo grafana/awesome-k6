@@ -29,6 +29,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Articles
 
+- [k6 Workshop](https://github.com/grafana/k6-workshop) - Explanation of the principles of load testing and practical examples for how to do it with k6.
 - [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - Introductory guide in several parts, helping you get started with k6.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - Brief overview of features and capabilities of k6.
 - [Integrating k6 with Apache Kafka](https://k6.io/blog/integrating-k6-with-apache-kafka) - Sending output from k6 to Apache Kafka.
@@ -57,6 +58,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 ## Videos
 
 - [k6 YouTube Channel](https://www.youtube.com/c/k6test)
+- [How to use k6 Cloud for load testing](https://www.youtube.com/watch?v=ncxCIuo5tUU&list=PLJdv3RhAQXNGkRCp7Q0k77n5jif4qjz2o) A series of quick videos for getting started with k6 Cloud
 - [Intro to load testing with k6 and Grafana (k6 data source plugin and Prometheus Remote Write)](https://www.youtube.com/watch?v=tFsIgbqXbxM)
 - [From Grafana ObservabilityCON: Intro to using k6 load testing with the Grafana observability stack](https://grafana.com/go/observabilitycon/2021/k6-load-testing/)
 - [From Grafana ObservabilityCON: Building performance tests into your CI pipeline with k6 and Grafana, w/ Matthew Churcher, QA Engineer at Vonage](https://grafana.com/go/observabilitycon/2021/performance-testing-vonage/)
