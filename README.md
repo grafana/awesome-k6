@@ -98,6 +98,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 - [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
+- [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - IntelliJ-based Plugin to run k6 tests locally or in the [k6 Cloud](https://app.k6.io/) from your IntelliJ IDE.
 - [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)
 - [k6-junit](https://github.com/simbadltd/k6-junit) - k6 JUnit summary exporter libray.
 - [k6-expect](https://github.com/simbadltd/k6-expect) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
