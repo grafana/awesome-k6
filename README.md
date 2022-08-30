@@ -78,8 +78,9 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-azure-pipelines-example](https://github.com/grafana/k6-example-azure-pipelines) - Running k6 load tests as part of an Azure DevOps Pipeline.
 - [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
-- [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
 - [k6-template-es6](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
+- [k6 templates](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+- [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
 - [example-data-generation](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
 - [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
 - [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
