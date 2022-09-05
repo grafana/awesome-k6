@@ -53,6 +53,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 - [Umbraco 9 - What a Performance!](https://moriyama.co.uk/about-us/news/blog-umbraco-9-what-a-performance/) - Test the performance of Umbraco v9 on Azure against Umbraco v8 and comparing Windows vs Linux.
 - [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - Personal tips to maintain a challenging k6 load testing codebase.
+- [Distributed Load Testing With K6](https://engineering.empathy.co/distributed-load-testing-with-k6/) - Setting up distributed execution with k6-operator and Argo workflows. 
 
 ## Videos
 
