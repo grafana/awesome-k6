@@ -10,23 +10,18 @@
 
 </div>
 
-A collection of content by the community, on (testing with) <a href="https://k6.io/">k6</a>.
-
-
-Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md).
+A collection of resources by the community, on (testing with) <a href="https://k6.io/">k6</a>.
 
 ## Contents
 
-- [Extensions](#extensions)
 - [Articles](#articles)
 - [Videos](#videos)
-- [Reference Projects](#reference-projects)
+- [Examples](#examples-and-projects)
 - [Tools](#tools)
 - [CI](#ci)
-- [Stacks](#stacks)
+- [Extensions](#extensions)
+- [Related](#related)
 
-## Extensions
-- [GitHub Topic: xk6](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 
 ## Articles
 
@@ -57,6 +52,11 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Distributed Load Testing With K6](https://engineering.empathy.co/distributed-load-testing-with-k6/) - Setting up distributed execution with k6-operator and Argo workflows. 
 - [Load testing with k6 and k8s](https://www.toucantoco.com/en/tech-blog/tech-blog/load-testing-with-k6-and-k8s) - The Toucan DevOps team explains why they chose k6 as their load testing tool and how they deploy it on k8s.
 
+- [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
+- [Real-time stress:
+AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda) - Evil Martians adding "real-time stress" with k6 and WebSockets.
+- [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - Robinhood on load testing a Kubernetes system with k6.
+
 ## Videos
 
 - [k6 YouTube Channel](https://www.youtube.com/c/k6test)
@@ -73,8 +73,9 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
   - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas at Cloud Summit 2021.
   - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf writing k6 tests using GitHub co-pilot.
 
-## Reference Projects
+## Examples
 
+- [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
 - [k6-circleci-example](https://github.com/li-clutter-org/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
 - [k6-jenkins-example](https://github.com/li-clutter-org/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
 - [k6-github-actions-example](https://github.com/grafana/k6-example-github-actions) - Running k6 load tests as part of a GitHub Actions build.
@@ -85,7 +86,6 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6 templates](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
 - [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
 - [example-data-generation](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
-- [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
 - [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 - [k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
 - [docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
@@ -115,9 +115,16 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6 for Google Cloud Build](https://k6.io/blog/integrating-k6-with-google-cloud-build/)
 - [k6 for Buddy CI/CD](https://k6.io/blog/integrating-k6-with-buddy-devops/)
 
-## Stacks
+## Extensions
+- [k6 Extensions](https://k6.io/docs/extensions/)
+- [GitHub Topic: xk6](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 
-- [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
-- [Real-time stress:
-AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda) - Evil Martians adding "real-time stress" with k6 and WebSockets.
-- [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - Robinhood on load testing a Kubernetes system with k6.
+## Related
+
+- [How They Load Test](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
+- [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+- [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+
+## Contributing
+
+Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md).
