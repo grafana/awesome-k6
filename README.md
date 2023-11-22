@@ -1,3 +1,4 @@
+<!--lint disable awesome-github-->
 <div align="center">
   <a href="https://k6.io/">
     <img src="assets/bert.png" alt="k6 mascot" width="300px">
@@ -31,7 +32,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 - [k6 Learn](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
 - [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - Introductory guide in several parts, helping you get started with k6.
-- [Distributed load testing with k6](https://feryn.eu/speaking/distributed-load-testing-k6-confoo23/) - Thijs Feryn presents in ConFoo Montreal 2023
+- [Distributed load testing with k6](https://feryn.eu/speaking/distributed-load-testing-k6-confoo23/) - Thijs Feryn presents in ConFoo Montreal 2023.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - Brief overview of features and capabilities of k6.
 - [Integrating k6 with Apache Kafka](https://k6.io/blog/integrating-k6-with-apache-kafka) - Sending output from k6 to Apache Kafka.
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
@@ -54,7 +55,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Umbraco 9 - What a Performance!](https://moriyama.co.uk/about-us/news/blog-umbraco-9-what-a-performance/) - Test the performance of Umbraco v9 on Azure against Umbraco v8 and comparing Windows vs Linux.
 - [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - Personal tips to maintain a challenging k6 load testing codebase.
 - [Distributed Load Testing With K6](https://engineering.empathy.co/distributed-load-testing-with-k6/) - Setting up distributed execution with k6-operator and Argo workflows. 
-- [Load testing with k6 and k8s](https://www.toucantoco.com/en/tech-blog/tech-blog/load-testing-with-k6-and-k8s) - The Toucan DevOps team explains why they chose k6 as their load testing tool and how they deploy it on k8s
+- [Load testing with k6 and k8s](https://www.toucantoco.com/en/tech-blog/tech-blog/load-testing-with-k6-and-k8s) - The Toucan DevOps team explains why they chose k6 as their load testing tool and how they deploy it on k8s.
 
 ## Videos
 
