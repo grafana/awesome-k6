@@ -8,15 +8,15 @@
 # Awesome k6 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint enable awesome-heading-->
 
-</div>
-
 A collection of resources by the community, on (testing with) <a href="https://k6.io/">k6</a>.
+
+</div>
 
 ## Contents
 
 - [Articles](#articles)
 - [Videos](#videos)
-- [Examples](#examples-and-projects)
+- [Examples](#examples)
 - [Tools](#tools)
 - [CI](#ci)
 - [Extensions](#extensions)
