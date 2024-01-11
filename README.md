@@ -17,7 +17,7 @@ A collection of resources by the community, on (testing with) <a href="https://k
 - [Videos](#videos)
 - [Examples](#examples)
 - [Tools](#tools)
-- [CI](#ci)
+- [CI/CD](#cicd)
 - [Extensions](#extensions)
 - [Related](#related)
 
@@ -75,11 +75,6 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 ## Examples
 
 - [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
-- [k6-circleci-example](https://github.com/li-clutter-org/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
-- [k6-jenkins-example](https://github.com/li-clutter-org/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
-- [k6-github-actions-example](https://github.com/grafana/k6-example-github-actions) - Running k6 load tests as part of a GitHub Actions build.
-- [k6-azure-pipelines-example](https://github.com/grafana/k6-example-azure-pipelines) - Running k6 load tests as part of an Azure DevOps Pipeline.
-- [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
 - [k6-template-es6](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
 - [k6 templates](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
@@ -105,16 +100,25 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [k6-junit](https://github.com/simbadltd/k6-junit) - k6 JUnit summary exporter libray.
 - [k6-expect](https://github.com/simbadltd/k6-expect) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
 
-## CI
-- [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
-- [k6 for Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
-- [k6 CircleCI Orb](https://circleci.com/developer/orbs/orb/k6io/test) - k6 Orb for running k6 in CircleCI. Supports running tests both on the CircleCI runner and in the k6 cloud SaaS service.
-- [k6 for Atlassian Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
+## CI/CD
+
 - [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
+- [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
+- [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
+- [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
+- [k6 for CircleCI](https://k6.io/blog/integrating-load-testing-with-circleci/)
+- [k6 for Flagger](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
+- [k6 for GitHub Actions](https://k6.io/blog/load-testing-using-github-actions/)
+- [k6 for GitLab](https://k6.io/blog/integrating-load-testing-with-gitlab/)
 - [k6 for Google Cloud Build](https://k6.io/blog/integrating-k6-with-google-cloud-build/)
-- [k6 for Buddy CI/CD](https://k6.io/blog/integrating-k6-with-buddy-devops/)
+- [k6 for Jenkins](https://k6.io/blog/integrating-load-testing-with-jenkins/)
+- [k6 for Keptn](https://k6.io/blog/performance-testing-in-keptn-using-k6/)
+- [k6 for TeamCity](https://k6.io/blog/load-testing-using-teamcity-and-k6/)
+
+ 
 
 ## Extensions
+
 - [k6 Extensions](https://k6.io/docs/extensions/)
 - [GitHub Topic: xk6](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 
