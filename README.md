@@ -82,6 +82,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [SwissLife-OSS/k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
 - [Im5tu/template-k6](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
 - [mohsenny/k6-test-template](https://github.com/mohsenny/k6-test-template) - Load testing framework.
+- [kwidera/k6_framework](https://github.com/kwidera/k6_framework) - Another k6 framework example.
 - [Sahanipe/pet_store](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
 - [lreimer/continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 - [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
