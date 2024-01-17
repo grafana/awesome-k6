@@ -76,7 +76,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 ## Examples/Templates
 
 - [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
-- [k6-template-es6](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
+- [k6-template-es6](https://github.com/grafana/k6-template-es6) - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 - [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - Starter template using Webpack bundler to write k6 tests in TypeScript.
 - [Jahmilli/k6-example](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
 - [tom-miseur/k6-templates](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
