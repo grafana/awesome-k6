@@ -9,6 +9,8 @@
 
 A collection of resources by the community, on (testing with) <a href="https://k6.io/">k6</a>.
 
+Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
+
 </div>
 
 ## Contents
