@@ -138,7 +138,6 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 ### Official
 
 - [xk6-client-tracing](https://github.com/grafana/xk6-client-tracing) - Client for load testing distributed tracing backends.
-- [xk6-dashboard](https://github.com/grafana/xk6-dashboard) - Create a web-based metrics dashboard.
 - [xk6-disruptor](https://github.com/grafana/xk6-disruptor) - Inject faults to test 💣.
 - [xk6-exec](https://github.com/grafana/xk6-exec) - Run external commands.
 - [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) - Interact with Kubernetes clusters.
