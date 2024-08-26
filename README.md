@@ -135,7 +135,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [k6 Extensions](https://grafana.com/docs/k6/latest/extensions/)
 - [GitHub Topic: xk6](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 
-### Official
+### [Official](https://grafana.com/docs/k6/latest/extensions/explanations/extensions-registry/#extension-tiers)
 
 - [xk6-client-tracing](https://github.com/grafana/xk6-client-tracing) - Client for load testing distributed tracing backends.
 - [xk6-disruptor](https://github.com/grafana/xk6-disruptor) - Inject faults to test 💣.
@@ -149,7 +149,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [xk6-sql](https://github.com/grafana/xk6-sql) - Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).
 - [xk6-ssh](https://github.com/grafana/xk6-ssh) - SSH.
 
-### Community
+### [Community](https://grafana.com/docs/k6/latest/extensions/explanations/extensions-registry/#extension-tiers)
 
 - [xk6-cable](https://github.com/anycable/xk6-cable) - Test Action Cable and AnyCable functionality.
 - [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) - Test Prometheus Remote Write performance.
