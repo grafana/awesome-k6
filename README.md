@@ -147,13 +147,13 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [xk6-output-influxdb](https://github.com/grafana/xk6-output-influxdb) - Export results to InfluxDB v2.
 - [xk6-output-kafka](https://github.com/grafana/xk6-output-kafka) - Export k6 results in real-time to Kafka.
 - [xk6-output-timescaledb](https://github.com/grafana/xk6-output-timescaledb) - Export k6 results to TimescaleDB.
+- [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) - Test Prometheus Remote Write performance.
 - [xk6-sql](https://github.com/grafana/xk6-sql) - Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).
 - [xk6-ssh](https://github.com/grafana/xk6-ssh) - SSH.
 
 ### Community
 
 - [xk6-cable](https://github.com/anycable/xk6-cable) - Test Action Cable and AnyCable functionality.
-- [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) - Test Prometheus Remote Write performance.
 - [xk6-coap](https://github.com/golioth/xk6-coap) - Interact with Constrained Application Protocol endpoints.
 - [xk6-dotenv](https://github.com/szkiba/xk6-dotenv) - Load env vars from a .env file.
 - [xk6-ethereum](https://github.com/distribworks/xk6-ethereum) - K6 extension for ethereum protocols.
