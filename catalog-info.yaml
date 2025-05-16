@@ -6,7 +6,6 @@ metadata:
   description: |
     A curated list of awesome tools, content and projects using k6
   annotations:
-    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: grafana/awesome-k6
 spec:
   type: documentation
