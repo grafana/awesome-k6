@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: awesome-k6
+  title: awesome-k6
+  description: |
+    A curated list of awesome tools, content and projects using k6
+  annotations:
+    github.com/project-slug: grafana/awesome-k6
+spec:
+  type: documentation
+  owner: group:default/k6-engineering
+  lifecycle: production
