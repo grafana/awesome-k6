@@ -161,7 +161,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [xk6-file](https://github.com/avitalique/xk6-file) - Write files.
 - [xk6-g0](https://github.com/szkiba/xk6-g0) - Write k6 tests in golang.
 - [xk6-kafka](https://github.com/mostafa/xk6-kafka) - Load-test Apache Kafka. Includes support for Avro messages.
-- [xk6-kv](https://github.com/oleiade/xk6-kv) - Share key-value data between VUs.
+- [xk6-kv](https://github.com/oshokin/xk6-kv) - Share key-value state between VUs. Actively maintained fork: random keys, coordination atomics, snapshots/metrics, TypeScript, pre-built releases.
 - [xk6-mock](https://github.com/szkiba/xk6-mock) - Mock HTTP(S) servers.
 - [xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) - MQTT extension.
 - [xk6-nats](https://github.com/ydarias/xk6-nats) - Provides NATS support for k6 tests.
