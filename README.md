@@ -113,7 +113,6 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 
 ## CI/CD
 
-- [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
 - [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
 - [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
 - [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
