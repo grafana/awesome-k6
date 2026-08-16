@@ -179,6 +179,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [How They Load Test](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
 - [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 - [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+- [Agent QA](https://github.com/vostride/agent-qa) - Open-source, self-improving QA agent for complementary functional testing of web and mobile applications through natural-language tests.
 
 ## Contributing
 
