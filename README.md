@@ -175,6 +175,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [xk6-sse](https://github.com/phymbert/xk6-sse) - A k6 extension for Server-Sent Events (SSE).
 - [xk6-tcp](https://github.com/NAlexandrov/xk6-tcp) - Send data to TCP port.
 - [xk6-top](https://github.com/szkiba/xk6-top) - Updating the current k6 metrics summaries on the terminal during the test run.
+- [xk6-sip](https://github.com/Dmitry-Fedotov-Dev/xk6-sip) - Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.
 
 ## Related
 
