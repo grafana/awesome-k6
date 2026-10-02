@@ -176,6 +176,8 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [xk6-tcp](https://github.com/NAlexandrov/xk6-tcp) - Send data to TCP port.
 - [xk6-top](https://github.com/szkiba/xk6-top) - Updating the current k6 metrics summaries on the terminal during the test run.
 - [xk6-sip](https://github.com/Dmitry-Fedotov-Dev/xk6-sip) - Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.
+- [xk6-mcpload](https://github.com/atul121001/mcpload/tree/main/xk6-mcpload) - Load and soak test MCP (Model Context Protocol) servers over streamable HTTP, with per-tool metrics and parallel tool calls.
+
 
 ## Related
 
