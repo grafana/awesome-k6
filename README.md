@@ -117,7 +117,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 
 - [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
 - [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
-- [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
+- [k6 for Buddy](https://buddy.works/guides/k6-load-testing)
 - [k6 for CircleCI](https://grafana.com/blog/2022/03/06/load-testing-with-circleci/)
 - [k6 for Flagger](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
 - [k6 for GitHub Actions](https://k6.io/blog/load-testing-using-github-actions/)
